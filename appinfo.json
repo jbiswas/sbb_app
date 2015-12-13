@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "biswasj@gmail.com",
+    "longName": "SBB",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SBB",
+    "uuid": "7d56bc57-7c1b-4df3-8e0f-6ee874f74203",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
